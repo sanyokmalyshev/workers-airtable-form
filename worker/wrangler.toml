@@ -7,4 +7,4 @@ workers_dev = true
 [vars]
 AIRTABLE_BASE_ID = "appS3t6hWcD5kbrIh"
 AIRTABLE_TABLE_NAME = "Tasks"
-FORM_URL = "https://4ef927f7.workers-airtable-form-b4h.pages.dev"
+FORM_URL = "https://workers-airtable-form-b4h.pages.dev"
