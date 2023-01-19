@@ -1,4 +1,7 @@
 {
   "name": "workers-airtable-form",
-  "workspaces": ["frontend", "worker"]
+  "workspaces": [
+    "frontend",
+    "worker"
+  ]
 }

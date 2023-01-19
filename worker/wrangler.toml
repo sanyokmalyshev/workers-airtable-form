@@ -1,10 +1,10 @@
 name = "workers-airtable-form"
 type = "javascript"
 
-account_id = "dc56444c4c955a1653106ccf997c1067"
+account_id = "8db20ccb39ffac6d3dbb0d61a5abe53f"
 workers_dev = true
 
 [vars]
-AIRTABLE_BASE_ID = "appeSWNykwi3SMV4O"
-AIRTABLE_TABLE_NAME = "Form Submissions"
-FORM_URL = "https://workers-airtable-form.pages.dev"
+AIRTABLE_BASE_ID = "appS3t6hWcD5kbrIh"
+AIRTABLE_TABLE_NAME = "Tasks"
+FORM_URL = "https://4ef927f7.workers-airtable-form-b4h.pages.dev"
