@@ -1,5 +1,5 @@
 // const SERVERLESS_FN_URL = "https://workers-airtable-form.signalnerve.workers.dev/submit"
-const SERVERLESS_FN_URL = "https://workers-airtable-form.sanyokmalyshev.workers.dev";
+const SERVERLESS_FN_URL = "https://workers-airtable-form.sanyokmalyshev.workers.dev/submit";
 
 export default () => (
   <form action={SERVERLESS_FN_URL} method="POST" className="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
